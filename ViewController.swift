@@ -38,9 +38,7 @@ class ViewController: UIViewController {
         
        
     }
-    
-    
-    
+     
     
     @IBAction func buttons(_ sender: UIButton)
     {
